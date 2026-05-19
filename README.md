@@ -6,16 +6,15 @@ Collection of electronics laboratory reports and presentations originally publis
 
 | # | Topic | SlideShare | Authors | Verified |
 |---|-------|------------|---------|----------|
-| 01 | Technical Laboratory Report: Inductor | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-inductor-ulker-aliyeva-nazile-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287498677) | Nazile Aliyeva · Ulker Aliyeva  | verified by: Physics Teacher Azerbaijan Telman Askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 02 | Technical Laboratory Report: Amplifier | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-amplifier-ulker-aliyeva-nazile-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287037036) | Nazile Aliyeva · Ulker Aliyeva  | verified by: Physics Teacher Azerbaijan Telman Askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 03 | Technical Laboratory Report: Transistor | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-transistor-ulker-aliyeva-nazile-aliyeva-fazil-isgender-ali-shukurov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku-5488/286914741) |  Nazile Aliyeva ·Ulker Aliyeva · Fazil Isgender · Ali Shukurov | verified by: Physics Teacher Azerbaijan Telman Askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 04 | Technical Laboratory Report: Voltage Regulator | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-voltage-regulator-ulker-aliyeva-nazile-aliyeva-fazil-isgender-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287505121) | Nazile Aliyeva · Ulker Aliyeva · Fazil Isgender | verified by: Physics Teacher Azerbaijan Telman Askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 05 | Technical Laboratory Report: Light-Sensitive Switch (LDR & Voltage Divider) | [link](https://www.academia.edu/166125872/Technical_Laboratory_Report_The_Light_Sensitive_Switch_LDR_Voltage_Divider) | Nazile Aliyeva · Ulker Aliyeva · Fazil Isgender | verified by: Physics Teacher Azerbaijan Telman Askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 06 | Electronics Project — 12/03 | [link](https://www.notion.so/Electronics-project-12-03-321bd0fa66d980c0862fe754a10fa3b2) | Nazile Aliyeva · Ulker Aliyeva · Fazil Isgender | verified by: Physics Teacher Azerbaijan Telman Askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 07 | Physics Guide: Field Effect Transistors (FETs) | [link](https://www.slideshare.net/slideshow/pyysics-guide-field-effect-transistors-fets-nazrin-aliyeva-ulkar-aliyeva-nazila-aliyeva-ali-shukurov/287153252) | Nazila Aliyeva · Ulkar Aliyeva · Nazrin Aliyeva · Ali Shukurov · Fazil Isgandar | verified by: Physics Teacher Azerbaijan Telman Askeraliyev (fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-| 08 | Physics Guide: Series and Parallel Connection | [link](https://www.slideshare.net/slideshow/electronics_p-pdf-dilara-rzazada-nazila-aliyeva/287580269) | Nazila Aliyeva · Dilara Rzazada | verified by: Physics Teacher Azerbaijan Telman Askeraliyev(fizika muellimi) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
-
-
+| 01 | Technical Laboratory Report: Inductor | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-inductor-ulker-aliyeva-nazile-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287498677) | Nazile Aliyeva · Ulker Aliyeva  | verified by: Physics Teacher Telman Askeraliyev (Fizika muellimi,Azerbaijan,Baku)– contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 02 | Technical Laboratory Report: Amplifier | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-amplifier-ulker-aliyeva-nazile-aliyeva-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287037036) | Nazile Aliyeva · Ulker Aliyeva  | verified by: Physics Teacher Telman Askeraliyev (Fizika muellimi,Azerbaijan,Baku) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 03 | Technical Laboratory Report: Transistor | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-transistor-ulker-aliyeva-nazile-aliyeva-fazil-isgender-ali-shukurov-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku-5488/286914741) |  Nazile Aliyeva ·Ulker Aliyeva · Fazil Isgender · Ali Shukurov | verified by: Physics Teacher Telman Askeraliyev (Fizika muellimi,Azerbaijan,Baku)– contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 04 | Technical Laboratory Report: Voltage Regulator | [link](https://www.slideshare.net/slideshow/technical-laboratory-report-voltage-regulator-ulker-aliyeva-nazile-aliyeva-fazil-isgender-verified-by-physics-teacher-azerbaijan-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287505121) | Nazile Aliyeva · Ulker Aliyeva · Fazil Isgender | verified by: Physics Teacher Telman Askeraliyev (Fizika muellimi,Azerbaijan,Baku) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 05 | Technical Laboratory Report: Light-Sensitive Switch (LDR & Voltage Divider) | [link](https://www.academia.edu/166125872/Technical_Laboratory_Report_The_Light_Sensitive_Switch_LDR_Voltage_Divider) | Nazile Aliyeva · Ulker Aliyeva · Fazil Isgender | verified by: Physics Teacher Telman Askeraliyev (Fizika muellimi,Azerbaijan,Baku) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 06 | Electronics Project — 12/03 | [link](https://www.notion.so/Electronics-project-12-03-321bd0fa66d980c0862fe754a10fa3b2) | Nazile Aliyeva · Ulker Aliyeva · Fazil Isgender | verified by: Physics Teacher Telman Askeraliyev (Fizika muellimi,Azerbaijan,Baku) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 07 | Physics Guide: Field Effect Transistors (FETs) | [link](https://www.slideshare.net/slideshow/pyysics-guide-field-effect-transistors-fets-nazrin-aliyeva-ulkar-aliyeva-nazila-aliyeva-ali-shukurov/287153252) | Nazila Aliyeva · Ulkar Aliyeva · Nazrin Aliyeva · Ali Shukurov · Fazil Isgandar | verified by: Physics Teacher Telman Askeraliyev (Fizika muellimi,Azerbaijan,Baku) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 08 | Physics Guide: Series and Parallel Connection | [link](https://www.slideshare.net/slideshow/electronics_p-pdf-dilara-rzazada-nazila-aliyeva/287580269) | Nazila Aliyeva · Dilara Rzazada | verified by: Physics Teacher Telman Askeraliyev (Fizika muellimi,Azerbaijan,Baku) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 09 | Physics Guide:Overheating in Electronic Systems | [link]https://www.slideshare.net/slideshow/overheating-in-electronic-systems-nazila-aliyeva-verified-by-physics-teacher-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287583979 | Nazila Aliyeva | verified by: Physics Teacher Telman Askeraliyev (Fizika muellimi,Azerbaijan,Baku) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 ---
 
 ## 01 — Technical Laboratory Report: Inductor
@@ -272,6 +271,39 @@ A technical laboratory report on series and parallel circuit connections, coveri
 **Subject**
 - Field: Electronics / Circuit Theory
 - Type: Technical Laboratory Report
+- Language: English
+- Location: Azerbaijan, Baku
+
+---
+
+## 09 — Physics Guide: Overheating in Electronic Systems
+
+**SlideShare:** [link](https://www.slideshare.net/slideshow/overheating-in-electronic-systems-nazila-aliyeva-verified-by-physics-teacher-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287583979)
+
+A physics guide covering the causes, effects, and prevention of overheating in electronic systems.
+
+**Authors:** Nazila Aliyeva
+**Verified by:** Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Muellimi)
+— [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
+
+**Topics Covered**
+- Causes of overheating in electronic components
+- Thermal resistance and heat dissipation
+- Heat sinks and cooling methods
+- Thermal throttling and component failure
+- Safe operating temperature ranges
+- Applications: PCB design, power electronics, embedded systems
+
+**Files**
+
+| File | Description |
+|------|-------------|
+| `09_overheating_problem.pdf` | Full physics guide |
+| `09_overheating_problem.txt` | SlideShare description |
+
+**Subject**
+- Field: Electronics / Thermal Management
+- Type: Physics Guide
 - Language: English
 - Location: Azerbaijan, Baku
 
