@@ -316,6 +316,8 @@ A physics guide covering the causes, effects, and prevention of overheating in e
 
 **Tinkercad Simulation Link:** [link](https://www.tinkercad.com/things/1EuJ5aUcfhO-sizzling-fyyran)
 
+**Youtube Project Demo Video** [link](https://youtu.be/Zdm5mvzAgvw)
+
 
 An Arduino-based automatic fan control system that activates a DC motor when temperature exceeds 30°C, using a TMP36 sensor and relay module. Built and simulated in TinkerCAD.
 
