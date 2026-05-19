@@ -313,6 +313,9 @@ A physics guide covering the causes, effects, and prevention of overheating in e
 
 **SlideShare:** [link](https://www.slideshare.net/slideshow/automatic-fan-control-using-arduino-tmp36-temperature-sensor-nazila-aliyeva-verified-by-physics-teacher-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287584511)
 
+**Tinkercad Simulation Link:** [link](https://www.tinkercad.com/things/1EuJ5aUcfhO-sizzling-fyyran)
+
+
 An Arduino-based automatic fan control system that activates a DC motor when temperature exceeds 30°C, using a TMP36 sensor and relay module. Built and simulated in TinkerCAD.
 
 **Author:** Nazila Aliyeva  
