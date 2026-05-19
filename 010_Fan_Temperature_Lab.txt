@@ -1,8 +1,0 @@
-Title:Automatic Fan Control Using Arduino & TMP36 Temperature Sensor:Nazila Aliyeva 
-Verified by :Physics Teacher Telman Askeraliyev(fizika muellimi,Azerbaijan,Baku)
-
-
-Description:Automatic Fan Control Using Arduino & TMP36 Temperature Sensor:Nazila Aliyeva 
-Verified by :Physics Teacher Telman Askeraliyev(fizika muellimi,Azerbaijan,Baku)
-
-
