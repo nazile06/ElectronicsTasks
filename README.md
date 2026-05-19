@@ -15,6 +15,7 @@ Collection of electronics laboratory reports and presentations originally publis
 | 07 | Physics Guide: Field Effect Transistors (FETs) | [link](https://www.slideshare.net/slideshow/pyysics-guide-field-effect-transistors-fets-nazrin-aliyeva-ulkar-aliyeva-nazila-aliyeva-ali-shukurov/287153252) | Nazila Aliyeva · Ulkar Aliyeva · Nazrin Aliyeva · Ali Shukurov · Fazil Isgandar | verified by: Physics Teacher Telman Askeraliyev (Fizika muellimi,Azerbaijan,Baku) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 | 08 | Physics Guide: Series and Parallel Connection | [link](https://www.slideshare.net/slideshow/electronics_p-pdf-dilara-rzazada-nazila-aliyeva/287580269) | Nazila Aliyeva · Dilara Rzazada | verified by: Physics Teacher Telman Askeraliyev (Fizika muellimi,Azerbaijan,Baku) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 | 09 | Physics Guide:Overheating in Electronic Systems | [link](https://www.slideshare.net/slideshow/overheating-in-electronic-systems-nazila-aliyeva-verified-by-physics-teacher-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287583979) | Nazila Aliyeva | verified by: Physics Teacher Telman Askeraliyev (Fizika muellimi,Azerbaijan,Baku) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
+| 10 | Automatic Fan Control Using Arduino & TMP36 Temperature Sensor | [link](https://www.slideshare.net/slideshow/automatic-fan-control-using-arduino-tmp36-temperature-sensor-nazila-aliyeva-verified-by-physics-teacher-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287584511)| Nazila Aliyeva | verified by: Physics Teacher Telman Askeraliyev (Fizika muellimi,Azerbaijan,Baku) – contact: [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan) |
 ---
 
 ## 01 — Technical Laboratory Report: Inductor
@@ -306,4 +307,36 @@ A physics guide covering the causes, effects, and prevention of overheating in e
 - Type: Physics Guide
 - Language: English
 - Location: Azerbaijan, Baku
+
+
+## 10 — TinkerCAD Project: Automatic Fan Control Using Arduino & TMP36 Temperature Sensor
+
+**SlideShare:** [link](https://www.slideshare.net/slideshow/automatic-fan-control-using-arduino-tmp36-temperature-sensor-nazila-aliyeva-verified-by-physics-teacher-telman-askeraliyev-fizika-muellimi-azerbaijan-baku/287584511)
+
+An Arduino-based automatic fan control system that activates a DC motor when temperature exceeds 30°C, using a TMP36 sensor and relay module. Built and simulated in TinkerCAD.
+
+**Author:** Nazila Aliyeva  
+**Verified by:** Telman Askeraliyev — Physics Teacher, Azerbaijan, Baku (Fizika Muellimi)  
+— [LinkedIn](https://www.linkedin.com/in/physics-teacher-azerbaijan-telman-askeraliyev/) · [Instagram](https://www.instagram.com/physics_teacher_azerbaijan)
+
+**Topics Covered**
+- Temperature sensing with TMP36 analog sensor
+- Arduino ADC conversion and threshold logic
+- Relay-based DC motor switching
+- Serial Monitor debugging and real-time monitoring
+- Smart room automation principles
+
+**Files**
+| File | Description |
+|------|-------------|
+| `10_fan_control.ino` | Arduino source code |
+| `10_Fan_Temperature_Lab.txt` | Full laboratory report |
+| `10_Fan_Temperature_Lab.pdf` | PDF version of report |
+
+**Subject**
+- Field: Electronics / Embedded Systems
+- Type: TinkerCAD Simulation Project
+- Language: English
+- Location: Azerbaijan, Baku
+
 
